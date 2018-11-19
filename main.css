@@ -1,0 +1,32 @@
+.tittle{
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+}
+.body{
+	font-family: 'Roboto', sans-serif;
+}
+.add{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+
+}
+.input{
+	text-align: center;
+	align-self: center;
+
+}
+.container{
+	text-align: center;
+	align-self: center;
+}
+.par{
+	
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+#add-sum{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
